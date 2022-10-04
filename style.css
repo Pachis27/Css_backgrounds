@@ -1,0 +1,17 @@
+body{
+    background-image: url(/users/cpu/downloads/css-background/imagen.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.herobanner{
+text-align: center;
+}
+.herobanner__parrafo{
+    color:blue;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.herobanner__button:hover{
+    border:solid 10px green;
+    color: black;
+    background-color:aqua;
+}
